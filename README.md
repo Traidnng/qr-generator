@@ -13,5 +13,4 @@ A lightweight, bilingually supported (EN/TR) Command Line Interface (CLI) QR Cod
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/qr-generator.git](https://github.com/YOUR_USERNAME/qr-generator.git)
-   cd qr-generator
+
