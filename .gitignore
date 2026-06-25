@@ -1,0 +1,6 @@
+qr_history.json
+qr_output/
+
+__pycache__/
+*.pyc
+.env
