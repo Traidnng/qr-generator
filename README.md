@@ -13,4 +13,17 @@ A lightweight, bilingually supported (EN/TR) Command Line Interface (CLI) QR Cod
 
 1. **Clone the repository:**
    ```bash
+   git clone [https://github.com/Traidnng/qr-generator.git](https://github.com/Traidnng/qr-generator.git)
+   cd qr-generator
+Install dependencies:
 
+Bash
+pip install -r requirements.txt
+Run the script:
+
+Bash
+python qr_generator.py
+⚙️ Requirements
+Python 3.x
+
+qrcode (with pillow support)
