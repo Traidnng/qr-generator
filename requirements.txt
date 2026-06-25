@@ -1,0 +1,1 @@
+qrcode[pillow]>=7.4.2
